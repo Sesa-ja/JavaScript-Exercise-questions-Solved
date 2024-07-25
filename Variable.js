@@ -30,6 +30,9 @@ catSound= "meow";
 console.log(petCat, "now says", catSound);
 
 
+// our first problem is done. Thanks for watching. Good luck!
+
+
 
 
 
