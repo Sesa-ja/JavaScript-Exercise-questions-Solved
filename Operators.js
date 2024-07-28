@@ -90,6 +90,8 @@ counter+=3;
 console.log(counter);
 
 
+//we practiced six activities realted to operators in javaScript. Thank you. Good luck !
+
 
 
 
